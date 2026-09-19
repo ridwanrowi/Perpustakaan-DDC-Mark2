@@ -14,7 +14,7 @@ export const getSavedGasConfig = (): GasConfig => {
     console.error('Error reading GAS config', e);
   }
   return {
-    webAppUrl: 'https://script.google.com/macros/s/AKfycbyxrE8_hDFoUPi7sbmi9SPHs7-O5DdYjuLP8Q0MzlTPT2_QSzwYdqxf_2M4mjyzppXW/exec',
+    webAppUrl: '',
     sheetName: 'Katalog_Buku',
     autoSync: false,
     isConnected: false,

@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pendataan Perpustakaan DDC",
+  "description": "Sistem pendataan buku perpustakaan terintegrasi Google Sheets & Google Apps Script dengan klasifikasi Dewey Decimal Classification (DDC) dan QR Code otomatis siap cetak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
